@@ -1,0 +1,14 @@
+/Users/orlandosantos/Desktop/c_sharp/helloWorld/bin/Debug/net8.0/helloWorld
+/Users/orlandosantos/Desktop/c_sharp/helloWorld/bin/Debug/net8.0/helloWorld.deps.json
+/Users/orlandosantos/Desktop/c_sharp/helloWorld/bin/Debug/net8.0/helloWorld.runtimeconfig.json
+/Users/orlandosantos/Desktop/c_sharp/helloWorld/bin/Debug/net8.0/helloWorld.dll
+/Users/orlandosantos/Desktop/c_sharp/helloWorld/bin/Debug/net8.0/helloWorld.pdb
+/Users/orlandosantos/Desktop/c_sharp/helloWorld/obj/Debug/net8.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orlandosantos/Desktop/c_sharp/helloWorld/obj/Debug/net8.0/helloWorld.AssemblyInfoInputs.cache
+/Users/orlandosantos/Desktop/c_sharp/helloWorld/obj/Debug/net8.0/helloWorld.AssemblyInfo.cs
+/Users/orlandosantos/Desktop/c_sharp/helloWorld/obj/Debug/net8.0/helloWorld.csproj.CoreCompileInputs.cache
+/Users/orlandosantos/Desktop/c_sharp/helloWorld/obj/Debug/net8.0/helloWorld.dll
+/Users/orlandosantos/Desktop/c_sharp/helloWorld/obj/Debug/net8.0/refint/helloWorld.dll
+/Users/orlandosantos/Desktop/c_sharp/helloWorld/obj/Debug/net8.0/helloWorld.pdb
+/Users/orlandosantos/Desktop/c_sharp/helloWorld/obj/Debug/net8.0/helloWorld.genruntimeconfig.cache
+/Users/orlandosantos/Desktop/c_sharp/helloWorld/obj/Debug/net8.0/ref/helloWorld.dll
